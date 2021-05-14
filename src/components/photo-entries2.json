@@ -1,0 +1,130 @@
+{
+  "itemlist" :
+  [
+    {
+      "cod"      : "1",
+      "item"  : "CAFFE’",
+      "prezzo" : "1€"
+    },
+
+    {
+      "cod"      : "2",
+      "item"  : "CAPPUCCINO",
+      "prezzo" : "2€"
+    },
+
+    {
+      "cod"      : "3",
+      "item"  : "THE CALDO",
+      "prezzo" : "1.5€"
+    },
+
+    {
+      "cod"      : "4",
+      "item"  : "CAFFE’ FREDDO",
+      "prezzo" : "2€"
+    },
+
+    {
+      "cod"      : "5",
+      "item"  : "ORZO",
+      "prezzo" : "1.5€"
+    },
+
+    {
+      "cod"      : "6",
+      "item"  : "GINSENG",
+      "prezzo" : "1.5€"
+    },
+
+    {
+      "cod"      : "7",
+      "item"  : "CORNETTI",
+     "prezzo" : "1€"
+    },
+
+    {
+      "cod"      : "8",
+      "item"  : "CROSTATA",
+     "prezzo" : "2.5€"
+    },
+
+    {
+      "cod"      : "9",
+      "item"  : "CREMA CAFFE’",
+      "prezzo" : "3€"
+    },
+
+    {
+      "cod"      : "10",
+      "item"  : "SUCCHI DI FRUTTA",
+      "prezzo" : "125€"
+    },
+
+    {
+      "cod"      : "11",
+      "item"  : "SPREMUTA D’ARANCE",
+      "prezzo" : "3€"
+    },
+
+    {
+      "cod"      : "12",
+      "item"  : "SPREMUTA DI MELOGRANO",
+      "prezzo" : "3.5€"
+    },
+
+    {
+      "cod"      : "13",
+      "item"  : "CEDRATA",
+      "prezzo" : "3€"
+    },
+
+    {
+      "cod"      : "14",
+      "item"  : "SCHWEPPES",
+     "prezzo" : "2.5€"
+    },
+
+    {
+      "cod"      : "15",
+      "item"  : "GATORADE",
+     "prezzo" : "3.5€"
+    },
+
+    {
+      "cod"      : "16",
+      "item"  : "RED BULL",
+      "prezzo" : "3.5€"
+    },
+
+    {
+      "cod"      : "17",
+      "item"  : "ACQUA PICCOLA",
+     "prezzo" : "1€"
+    },
+
+    {
+      "cod"      : "18",
+      "item"  : "ACQUA GRANDE",
+     "prezzo" : "2€"
+    },
+
+    {
+      "cod"      : "19",
+      "item"  : "AMARO",
+     "prezzo" : "3€"
+    },
+
+    {
+      "cod"      : "20",
+      "item"  : "BIRRE IN BOTTIGLIA",
+     "prezzo" : "5€"
+    },
+
+    {
+      "cod"      : "21",
+      "item"  : "PATATINE",
+     "prezzo" : "1.5€"
+    }
+  ]
+}

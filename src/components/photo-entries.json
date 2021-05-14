@@ -1,0 +1,149 @@
+{
+  "itemlist" :
+  [
+    {
+      "cod"      : "1",
+      "item"  : "SOLO DRINK",
+      "prezzo" : "7€"
+    },
+
+    {
+      "cod"      : "2",
+      "item"  : "CON APERITIVO",
+      "prezzo" : "9€"
+    },
+
+    {
+      "cod"      : "1.2",
+      "item"  : "HAKUNA SPRITZ",
+      "prezzo" : "10"
+    },
+
+    {
+      "cod"      : "1.3",
+      "item"  : "APEROL SPRITZ",
+      "prezzo" : " "
+    },
+
+    {
+      "cod"      : "1.4",
+      "item"  : "CAMPARI SPRITZ",
+      "prezzo" : ""
+    },
+
+    {
+      "cod"      : "1.5",
+      "item"  : "HUGO",
+     "prezzo" : "10"
+    },
+
+    {
+      "cod"      : "1.6",
+      "item"  : "CUBA LIBRE",
+     "prezzo" : ""
+    },
+
+    {
+      "cod"      : "1.7",
+      "item"  : "MOSCOW MULE",
+      "prezzo" : ""
+    },
+
+    {
+      "cod"      : "1.8",
+      "item"  : "CAMPARI GINGER BEER",
+      "prezzo" : "10"
+    },
+
+    {
+      "cod"      : "1.9",
+      "item"  : "MOJITO",
+      "prezzo" : " "
+    },
+
+    {
+      "cod"      : "1.10",
+      "item"  : "PIÑA COLADA",
+      "prezzo" : ""
+    },
+
+    {
+      "cod"      : "1.11",
+      "item"  : "AMERICANO",
+     "prezzo" : ""
+    },
+
+    {
+      "cod"      : "1.12",
+      "item"  : "CAIPIRINHA",
+     "prezzo" : ""
+    },
+
+    {
+      "cod"      : "1.13",
+      "item"  : "LONG ISLAND",
+     "prezzo" : ""
+    },
+
+    {
+      "cod"      : "1.14",
+      "item"  : "JAPANAISE ICE TEA",
+     "prezzo" : ""
+    },
+
+    {
+      "cod"      : "3",
+      "item"  : "APERITIVO CON BIRRA",
+      "prezzo" : "6€"
+    },
+
+    {
+      "cod"      : "4",
+      "item"  : "APERITIVO ANALCOLICO",
+      "prezzo" : "6€"
+    },
+
+    {
+      "cod"      : "5",
+      "item"  : "SPECIAL DRINK",
+      "prezzo" : "10€ "
+    },
+
+    {
+      "cod"      : "6",
+      "item"  : "CALICE DI VINO",
+      "prezzo" : "5€"
+    },
+
+    {
+      "cod"      : "7",
+      "item"  : "CALICE DI PROSECCO",
+     "prezzo" : "5€"
+    },
+
+    {
+      "cod"      : "8",
+      "item"  : "VINO - BOTTIGLIA",
+     "prezzo" : "16€"
+    },
+
+    {
+      "cod"      : "9",
+      "item"  : "PROSECCO - BOTTIGLIA",
+      "prezzo" : "16€"
+    },
+
+    {
+      "cod"      : "9.1",
+      "item"  : "CON APERITIVO ",
+      "prezzo" : "20€"
+    },
+
+    {
+      "cod"      : "10",
+      "item"  : "CARAFFA Di MOJITO O SPRITZ da 1,5 lt APERITIVO",
+      "prezzo" : "50€"
+    }
+
+  ]
+}

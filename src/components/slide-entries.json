@@ -1,0 +1,20 @@
+{
+  "itemlist" :
+  [
+    {
+      "href"      : "Aperitivo",
+      "title"  : "Aperitivo"
+     
+    },
+
+    {
+      "href"   : "bar",
+      "title"  : "Bar"
+    },
+
+     {
+      "href"   : "mangia",
+      "title"  : "Da Mangiare"
+    }
+  ]
+}
